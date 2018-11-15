@@ -67,8 +67,8 @@
 ## 교육이수
 ##### 전략경영 빅데이터 분석가 과정 &mdash; 대한상공회의소 서울기술교육센터(2018.07 - 2018.11)
 * 주요 학습 내용
- * 자연어처리, 머신러닝(KNN, Kmeans), 딥러닝(CNN, RNN)
- * Hadoop,DBMS 활용 데이터 관리
+  * 자연어처리, 머신러닝(KNN, Kmeans), 딥러닝(CNN, RNN)
+  * Hadoop,DBMS 활용 데이터 관리
 
 ##### ANNS program &mdash; University of Qatar (2012.08 - 2013.06)
 * 카타르국립대학교 초청 아랍어 1년 장학어학연수
