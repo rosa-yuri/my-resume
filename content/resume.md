@@ -18,7 +18,7 @@
   - 주요 라이브러리: Pandas, Numpy, Matplotlib, Tensorflow, Sklearn, Scipy
 * 공간 분석 및 시각화 도구: PowerBI, ArcGIS
 
-![](https://github.com/rosa-yuri/my-resume/blob/master/images/github_icon.png)['서울시 국공립 어린이집 최적지 선정' 분석 소스코드](https://github.com/rosa-yuri/BigData-project)
+![](https://github.com/rosa-yuri/my-resume/blob/master/images/github_icon.png)['서울시 국공립 어린이집 최적지 선정' 분석 소스코드](https://github.com/rosa-yuri/BigCampus_project)
 
 
 #### 대용량 텍스트데이터 분석 프로그램 구현 &mdash; 개인프로젝트(진행 중)
@@ -37,7 +37,7 @@
 * 개발 도구: Python
   - 주요 라이브러리: thinker, threading, os.path, math, operator, struct 
 
-![](https://github.com/rosa-yuri/my-resume/blob/master/images/github_icon.png)[ Raw 데이터 분석 툴 개발 소스코드](http://)
+![](https://github.com/rosa-yuri/my-resume/blob/master/images/github_icon.png)[ Raw 데이터 분석 툴 개발 소스코드](https://github.com/rosa-yuri/my_projects/blob/master/raw_img_processing.py)
 ![](https://github.com/rosa-yuri/my-resume/blob/master/images/github_icon.png)[ Raw & RGB 데이터 통합 분석 툴 개발 소스코드](http://)
 
 ## 경력사항
