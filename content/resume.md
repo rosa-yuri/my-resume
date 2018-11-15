@@ -4,8 +4,8 @@
 
 ## 기본 사항
 * 서울시 동대문구 망우로18라길 37-2
-![](https://github.com/rosa-yuri/my-resume/blob/master/images/gmail.png).[yuri.cheru0422@gmail.com]
-![](https://github.com/rosa-yuri/my-resume/blob/master/images/gmail.png).[+82 10 2684 3226]
+  ![](https://github.com/rosa-yuri/my-resume/blob/master/images/gmail.png).[yuri.cheru0422@gmail.com]
+  ![](https://github.com/rosa-yuri/my-resume/blob/master/images/gmail.png).[+82 10 2684 3226]
 
 
 ## 프로젝트
