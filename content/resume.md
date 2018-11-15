@@ -17,7 +17,7 @@
   - 주요 라이브러리: Pandas, Numpy, Matplotlib, Tensorflow, Sklearn, Scipy
 * 공간 분석 및 시각화 도구: PowerBI, ArcGIS
 
-![](https://www.joyofdata.de/blog/wp-content/uploads/2015/05/github.png)['서울시 국공립 어린이집 최적지 선정' 분석 소스코드](https://github.com/cutz-j/BigData-project)
+![](https://www.joyofdata.de/blog/wp-content/uploads/2015/05/github.png)['서울시 국공립 어린이집 최적지 선정' 분석 소스코드](https://github.com/rosa-yuri/BigData-project)
 
 
 #### 대용량 텍스트데이터 & 디지털이미지 처리 및 분석 통합 프로그램 구현 &mdash; 개인프로젝트(진행 중)
