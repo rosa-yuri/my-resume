@@ -17,17 +17,27 @@
   - 주요 라이브러리: Pandas, Numpy, Matplotlib, Tensorflow, Sklearn, Scipy
 * 공간 분석 및 시각화 도구: PowerBI, ArcGIS
 
-![](https://www.joyofdata.de/blog/wp-content/uploads/2015/05/github.png)['서울시 국공립 어린이집 최적지 선정' 분석 소스코드](https://github.com/rosa-yuri/BigData-project)
+![](https://github.com/rosa-yuri/my-resume/blob/master/images/github_icon.png)['서울시 국공립 어린이집 최적지 선정' 분석 소스코드](https://github.com/rosa-yuri/BigData-project)
 
 
-#### 대용량 텍스트데이터 & 디지털이미지 처리 및 분석 통합 프로그램 구현 &mdash; 개인프로젝트(진행 중)
+#### 대용량 텍스트데이터 분석 프로그램 구현 &mdash; 개인프로젝트(진행 중)
 ##### 프로젝트 내용
-* 대용량 텍스트데이터의 자동화 처리(저장, 변환) 및 데이터 분석 프로그램 구현
-* Raw 데이터 및 RGB데이터 처리를 위한 디지털 이미지 통합 분석 프로그램 구현
+* 대용량 텍스트데이터의 자동화 처리(저장, 변환) 및 데이터 분석 프로그램 구현(진행 중)
 * 개발 도구: Python, Virtual Box
-  - 주요 라이브러리: CSV, MySQL, SQLite, MariaDB
+  - 주요 라이브러리: thinker, threading, CSV, MySQL, SQLite, MariaDB
+  
+![](https://github.com/rosa-yuri/my-resume/blob/master/images/github_icon.png)[ 대용량 텍스트 데이터 분석 툴 개발 소스코드](http://)
 
-![](https://www.joyofdata.de/blog/wp-content/uploads/2015/05/github.png)[ 분석 툴 개발 소스코드](http://)
+
+#### 디지털이미지 처리 및 분석 통합 프로그램 구현 &mdash; 개인프로젝트(진행 중)
+##### 프로젝트 내용
+* Raw 디지털 이미지 분석 프로그램 구현
+* Raw 및 RGB 디지털 이미지 통합 분석 프로그램 구현(진행 중)
+* 개발 도구: Python
+  - 주요 라이브러리: thinker, threading, os.path, math, operator, struct 
+
+![](https://github.com/rosa-yuri/my-resume/blob/master/images/github_icon.png)[ Raw 데이터 분석 툴 개발 소스코드](http://)
+![](https://github.com/rosa-yuri/my-resume/blob/master/images/github_icon.png)[ Raw & RGB 데이터 통합 분석 툴 개발 소스코드](http://)
 
 ## 경력사항
 
