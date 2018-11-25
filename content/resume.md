@@ -37,7 +37,7 @@
 * 개발 도구: Python
   - 주요 라이브러리: thinker, threading, os.path, math, operator, struct 
 
-![](https://github.com/rosa-yuri/my-resume/blob/master/images/github_icon.png)[ Raw 데이터 분석 툴 개발 소스코드](https://github.com/rosa-yuri/my_projects/blob/master/raw_img_processing.py)
+![](https://github.com/rosa-yuri/my-resume/blob/master/images/github_icon.png)[ Raw 데이터 분석 툴 개발 소스코드](https://github.com/rosa-yuri/my_projects/blob/master/Raw/rawImg.ipynb)
 ![](https://github.com/rosa-yuri/my-resume/blob/master/images/github_icon.png)[ Raw & RGB 데이터 통합 분석 툴 개발 소스코드](http://)
 
 ## 경력사항
